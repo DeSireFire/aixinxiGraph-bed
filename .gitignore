@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*/.idea/
+.idea/
+aixinxi_config.py
+demo/aixinxi_config.py
+*/.scrapy/
+/aixinxi/aixinxi_test.py
